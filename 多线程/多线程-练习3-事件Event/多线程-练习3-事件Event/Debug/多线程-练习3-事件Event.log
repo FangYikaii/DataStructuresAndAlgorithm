@@ -1,0 +1,12 @@
+﻿生成启动时间为 2017/3/6 15:37:52。
+     1>项目“C:\Users\Administrator\Desktop\C++\多线程-练习3-事件Event\多线程-练习3-事件Event\多线程-练习3-事件Event.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Software\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\多线程-练习3-事件Event.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "多线程-练习3-事件Event.cpp"
+         多线程-练习3-事件Event.cpp
+     1>c:\users\administrator\desktop\c++\多线程-练习3-事件event\多线程-练习3-事件event\多线程-练习3-事件event.cpp(20): error C2664: “HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)”: 无法将参数 4 从“const char [6]”转换为“LPCWSTR”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“C:\Users\Administrator\Desktop\C++\多线程-练习3-事件Event\多线程-练习3-事件Event\多线程-练习3-事件Event.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.37

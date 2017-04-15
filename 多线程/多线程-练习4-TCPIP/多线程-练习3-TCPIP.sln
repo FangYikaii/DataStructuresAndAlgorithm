@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "多线程-练习3-TCPIP", "多线程-练习3-TCPIP\多线程-练习3-TCPIP.vcxproj", "{F62C7A5A-5EF9-49AC-8BC7-2383A1BE89B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62C7A5A-5EF9-49AC-8BC7-2383A1BE89B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F62C7A5A-5EF9-49AC-8BC7-2383A1BE89B6}.Debug|Win32.Build.0 = Debug|Win32
+		{F62C7A5A-5EF9-49AC-8BC7-2383A1BE89B6}.Release|Win32.ActiveCfg = Release|Win32
+		{F62C7A5A-5EF9-49AC-8BC7-2383A1BE89B6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
